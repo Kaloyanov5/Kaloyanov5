@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Kaloyanov5
 - 👀 I’m interested in becoming a Front-End Web Developer
 - 🌱 I’m currently learning Web Development
-- 📫 How to reach me: Instagram - @__b0jidar__ / Telegram - https://t.me/kaloyanov5
+- 📫 How to reach me: Instagram - @___b0jidar___ / Telegram - https://t.me/kaloyanov5
