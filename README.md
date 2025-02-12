@@ -1,7 +1,7 @@
 <h1 align="left">⚡ Bozhidar Kaloyanov</h1>
 <h3 align="left">Software Engineer</h3>
 
-<p align="left">Passionate Software Engineer with experience in Java, Spring Boot, and JavaScript development. Skilled in building robust backend systems, interactive web applications, and desktop-based management tools. Always eager to learn and improve, with a strong focus on writing clean, efficient, and scalable code.</p>
+<p align="left">Passionate Software Engineer with experience in Java, Spring Boot, and JavaScript development. Skilled in building backend systems, interactive web applications, and desktop-based management tools. Always eager to learn and improve, with a strong focus on writing clean, efficient, and scalable code.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
