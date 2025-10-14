@@ -38,5 +38,5 @@
 </div>
 
 ## Github Stats
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kaloyanov5&theme=dark" alt="kaloyanov5" /></p>
+<p><img src="https://github-readme-streak-stats-eight-blue-32.vercel.app/?user=goofy5752&theme=dark" alt="Streak Stats" height="400" width="500" style="border: none !important; background: transparent !important;" /></p>
 
