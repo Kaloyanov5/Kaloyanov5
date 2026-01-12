@@ -38,5 +38,5 @@
 </div>
 
 ## Github Stats
-<p><img src="https://github-readme-streak-stats-eight-blue-32.vercel.app/?user=goofy5752&theme=dark" alt="Streak Stats" height="400" width="500" style="border: none !important; background: transparent !important;" /></p>
+<p><img src="https://github-readme-streak-stats-eight-blue-32.vercel.app/?user=Kaloyanov5&theme=dark" alt="Streak Stats" height="400" width="500" style="border: none !important; background: transparent !important;" /></p>
 
