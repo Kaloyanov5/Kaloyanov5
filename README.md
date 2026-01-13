@@ -35,6 +35,8 @@
   <a href="https://www.gnu.org/software/bash/" target="_blank" style="text-decoration: none;"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" title="Bash" width="40" height="40" style="border: 0;" /></a>&nbsp;
   <!-- Linux -->
   <a href="https://www.linux.org/" target="_blank" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="40" height="40" style="border: 0;" /></a>
+  <!-- Apps Script -->
+  <a href="https://developers.google.com/apps-script" target="_blank" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/google-apps-script/google-apps-script.png" alt="Apps Scrpt" title="Apps Script" width="40" height="40" style="border: 0;" /></a>
 </div>
 
 ## Github Stats
