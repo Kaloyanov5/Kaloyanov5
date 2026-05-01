@@ -1,32 +1,46 @@
 <h1 align="left">⚡ Bozhidar Kaloyanov</h1>
 <h3 align="left">Software Developer</h3>
 
-<p align="left">Passionate Software Developer with experience in Java, Spring Boot, and Go development. Skilled in building backend systems, interactive web applications, and desktop-based management tools. Always eager to learn and improve, with a strong focus on writing clean, efficient, and scalable code.</p>
+<p align="left">Full-stack developer working primarily in Java / Spring Boot on the backend and React / TypeScript on the frontend.
+  
+  My main project, <a href="https://github.com/Kaloyanov5/merkantil-backend">Merkantil</a>, is a simulated stock-trading platform with real-time WebSocket price feeds, session-based auth (email verification, 2FA, Google OAuth), Redis-backed rate limiting, and Flyway-managed migrations on top of MySQL - paired with a React frontend featuring live candlestick charts, an admin panel, and a full order/wallet flow. 
+  
+  I also enjoy integrating LLMs into practical tools: a Gemini-powered finance manager that auto-categorizes transactions, and an AI resume analyzer that scores resumes and suggests job matches.</p>
+
+<br/>
 
 ## Contact
-<p align="left">
-<a href="https://linkedin.com/in/bozhidarkaloyanov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaloyanov5" height="30" width="40" /></a>
-<a href="https://instagram.com/_b0jidar_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_b0jidar_" height="30" width="40" /></a>
-<a href="https://t.me/kaloyanov5" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="telegram" height="30" width="40" /></a>
-<a href="mailto:kaloyanovbojidar@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="gmail" height="30" width="40" /></a>
-</p>
 
-## Languages and Tools
+<div align="center">
 
-<div align="left">
-
-<a href="https://spring.io/projects/spring-boot" target="_blank" style="text-decoration:none;display:inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" title="Spring Boot" width="40" height="40" style="border:0;" /></a> 
-<a href="https://www.java.com" target="_blank" style="text-decoration:none;display:inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java" width="40" height="40" style="border:0;" /></a> 
-<a href="https://react.dev/" target="_blank" style="text-decoration:none;display:inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" title="React" width="40" height="40" style="border:0;" /></a> 
-<a href="https://www.typescriptlang.org/" target="_blank" style="text-decoration:none;display:inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="40" height="40" style="border:0;" /></a> 
-<a href="https://www.mysql.com/" target="_blank" style="text-decoration:none;display:inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" title="MySQL" width="40" height="40" style="border:0;" /></a> 
-<a href="https://redis.io/" target="_blank" style="text-decoration:none;display:inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" title="Redis" width="40" height="40" style="border:0;" /></a> 
-<a href="https://www.docker.com/" target="_blank" style="text-decoration:none;display:inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" title="Docker" width="40" height="40" style="border:0;" /></a> 
-<a href="https://git-scm.com/" target="_blank" style="text-decoration:none;display:inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" title="Git" width="40" height="40" style="border:0;" /></a> 
-<a href="https://www.linux.org/" target="_blank" style="text-decoration:none;display:inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="40" height="40" style="border:0;" /></a>
+| [<img src="https://cdn.simpleicons.org/github/white" width="40" height="40" alt="GitHub">](https://github.com/Kaloyanov5) | [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40" alt="LinkedIn">](https://linkedin.com/in/bozhidarkaloyanov) | [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="40" alt="Instagram">](https://instagram.com/_b0jidar_) | [<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="40" height="40" alt="Telegram">](https://t.me/kaloyanov5) | [<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="40" height="40" alt="Gmail">](mailto:kaloyanovbojidar@gmail.com) |
+|:---:|:---:|:---:|:---:|:---:|
+| GitHub | LinkedIn | Instagram | Telegram | Gmail |
 
 </div>
 
-## Github Stats
-<p><img src="https://github-readme-streak-stats-eight-blue-32.vercel.app/?user=Kaloyanov5&theme=dark" alt="Streak Stats" height="400" width="500" style="border: none !important; background: transparent !important;" /></p>
+<br/>
 
+## Languages and Tools
+
+<div align="center">
+
+| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java">](https://www.java.com) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40" alt="Spring Boot">](https://spring.io/projects/spring-boot) | [<img src="https://cdn.simpleicons.org/springsecurity/6DB33F" width="40" height="40" alt="Spring Security">](https://spring.io/projects/spring-security) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React">](https://react.dev/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript">](https://www.typescriptlang.org/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind CSS">](https://tailwindcss.com/) |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| Java | Spring Boot | Spring Security | React | TypeScript | Tailwind CSS |
+
+| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL">](https://www.mysql.com/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" height="40" alt="Redis">](https://redis.io/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker">](https://www.docker.com/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git">](https://git-scm.com/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux">](https://www.linux.org/) |
+|:---:|:---:|:---:|:---:|:---:|
+| MySQL | Redis | Docker | Git | Linux |
+
+</div>
+
+<br/>
+
+## Github Stats
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats-eight-blue-32.vercel.app/?user=Kaloyanov5&theme=dark" alt="Streak Stats" width="500" />
+
+</div>
