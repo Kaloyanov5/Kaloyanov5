@@ -29,9 +29,9 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | Java | Spring Boot | Spring Security | React | TypeScript | Tailwind CSS |
 
-| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL">](https://www.mysql.com/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" height="40" alt="Redis">](https://redis.io/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker">](https://www.docker.com/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git">](https://git-scm.com/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux">](https://www.linux.org/) |
-|:---:|:---:|:---:|:---:|:---:|
-| MySQL | Redis | Docker | Git | Linux |
+| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL">](https://www.mysql.com/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB">](https://www.mongodb.com/) | [<img src="https://cdn.simpleicons.org/rabbitmq/FF6600" width="40" height="40" alt="RabbitMQ">](https://www.rabbitmq.com/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" height="40" alt="Redis">](https://redis.io/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker">](https://www.docker.com/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git">](https://git-scm.com/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux">](https://www.linux.org/) |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| MySQL | MongoDB | RabbitMQ | Redis | Docker | Git | Linux |
 
 </div>
 
