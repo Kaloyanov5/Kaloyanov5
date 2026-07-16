@@ -4,10 +4,8 @@
 <p align="left">I am a backend-focused developer specializing in building secure, scalable services and real-time data pipelines, primarily using the Java / Spring Boot ecosystem.
   
   My main project, <a href="https://github.com/Kaloyanov5/merkantil-backend">Merkantil</a>, is a simulated stock-trading platform with real-time WebSocket price feeds, session-based auth (email verification, 2FA, Google OAuth), Redis-backed rate limiting, and Flyway-managed migrations on top of MySQL - paired with a React frontend featuring live candlestick charts, an admin panel, and a full order/wallet flow. 
-  
-  Additionally, I build server-side integrations that leverage LLM APIs for automated data processing. Recent work includes a Gemini-integrated pipeline for financial transaction classification, and a text-analysis engine that parses, scores, and matches resume data.</p>
+</p>
 
-<br/>
 
 ## Contact
 
