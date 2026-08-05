@@ -1,11 +1,13 @@
 <h1 align="left">⚡ Bozhidar Kaloyanov</h1>
-<h3 align="left">Software Developer | Backend Architecture & API Design</h3>
+<h3 align="left">Software Developer | Backend & FinTech Systems</h3>
 
-<p align="left">I am a backend-focused developer specializing in building secure, scalable services and real-time data pipelines, primarily using the Java / Spring Boot ecosystem.
-  
-  My main project, <a href="https://github.com/Kaloyanov5/merkantil-backend">Merkantil</a>, is a simulated stock-trading platform with real-time WebSocket price feeds, session-based auth (email verification, 2FA, Google OAuth), Redis-backed rate limiting, and Flyway-managed migrations on top of MySQL - paired with a React frontend featuring live candlestick charts, an admin panel, and a full order/wallet flow. 
+<p align="left">
+I am a backend-focused software developer passionate about building scalable distributed systems, high-performance APIs, and event-driven architectures.
+
+Currently working on enterprise fintech software, developing backend services and integrations while expanding my expertise in modern Java technologies such as Quarkus, Apache Kafka, and cloud-native microservices.
+
+My personal project, <a href="https://github.com/Kaloyanov5/merkantil-backend">Merkantil</a>, is a simulated stock-trading platform featuring real-time market data, WebSocket streaming, session-based authentication (email verification, 2FA, Google OAuth), Redis-backed rate limiting, Flyway database migrations, and PostgreSQL. It serves as a playground for exploring trading systems, financial software architecture, and scalable backend design.
 </p>
-
 
 ## Contact
 
@@ -23,13 +25,13 @@
 
 <div align="center">
 
-| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java">](https://www.java.com) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40" alt="Spring Boot">](https://spring.io/projects/spring-boot) | [<img src="https://cdn.simpleicons.org/springsecurity/6DB33F" width="40" height="40" alt="Spring Security">](https://spring.io/projects/spring-security) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React">](https://react.dev/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript">](https://www.typescriptlang.org/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind CSS">](https://tailwindcss.com/) |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| Java | Spring Boot | Spring Security | React | TypeScript | Tailwind CSS |
+| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java">](https://www.java.com) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40" alt="Spring Boot">](https://spring.io/projects/spring-boot) | [<img src="https://cdn.simpleicons.org/quarkus/4695EB" width="40" height="40" alt="Quarkus">](https://quarkus.io/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript">](https://www.typescriptlang.org/) |
+|:---:|:---:|:---:|:---:|
+| Java | Spring Boot | Quarkus | TypeScript |
 
-| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL">](https://www.mysql.com/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB">](https://www.mongodb.com/) | [<img src="https://cdn.simpleicons.org/rabbitmq/FF6600" width="40" height="40" alt="RabbitMQ">](https://www.rabbitmq.com/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" height="40" alt="Redis">](https://redis.io/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker">](https://www.docker.com/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git">](https://git-scm.com/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux">](https://www.linux.org/) |
+| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL">](https://www.postgresql.org/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB">](https://www.mongodb.com/) | [<img src="https://cdn.simpleicons.org/apachekafka/FFFFFF" width="40" height="40" alt="Apache Kafka">](https://kafka.apache.org/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" height="40" alt="Redis">](https://redis.io/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker">](https://www.docker.com/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git">](https://git-scm.com/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux">](https://www.linux.org/) |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| MySQL | MongoDB | RabbitMQ | Redis | Docker | Git | Linux |
+| PostgreSQL | MongoDB | Kafka | Redis | Docker | Git | Linux |
 
 </div>
 
