@@ -13,9 +13,9 @@ My personal project, <a href="https://github.com/Kaloyanov5/merkantil-backend">M
 
 <div align="center">
 
-| [<img src="https://cdn.simpleicons.org/github/white" width="40" height="40" alt="GitHub">](https://github.com/Kaloyanov5) | [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40" alt="LinkedIn">](https://linkedin.com/in/bozhidarkaloyanov) | [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="40" alt="Instagram">](https://instagram.com/_b0jidar_) | [<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="40" height="40" alt="Telegram">](https://t.me/kaloyanov5) | [<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="40" height="40" alt="Gmail">](mailto:kaloyanovbojidar@gmail.com) |
+| [<img src="https://cdn.simpleicons.org/github/white" width="40" height="40" alt="GitHub">](https://github.com/Kaloyanov5) | [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40" alt="LinkedIn">](https://linkedin.com/in/bozhidarkaloyanov) | [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="40" alt="Instagram">](https://instagram.com/_b0jidar_) | [<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="40" height="40" alt="Telegram">](https://t.me/kaloyanov5) | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Microsoft_Outlook_Icon_%282025%E2%80%93present%29.svg" width="40" height="40" alt="Outlook">](mailto:bozhidar.kaloyanov@outlook.com) |
 |:---:|:---:|:---:|:---:|:---:|
-| GitHub | LinkedIn | Instagram | Telegram | Gmail |
+| GitHub | LinkedIn | Instagram | Telegram | Outlook |
 
 </div>
 
